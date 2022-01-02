@@ -2,7 +2,7 @@
 
 Usage:
 
-python RE_Tool.py incoming_file output_payload
+python RE_Tool.py incoming_file output_file
 
 ## reversebyte.py
 
