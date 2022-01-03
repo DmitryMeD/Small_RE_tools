@@ -26,7 +26,7 @@ if __name__ == '__main__':
   dump = bytearray(file.read())
   dumpout = bytearray(len(dump))
   outdump = reversebyte(dump,dumpout)
-  print(dumpout)
+  
   
   new = open(outfile,"wb")
   new.write(outdump)
